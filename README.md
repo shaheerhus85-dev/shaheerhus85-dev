@@ -1,6 +1,6 @@
 # Hi, I'm Shaheer Hussain Jafri 👋
 
-AI Systems Builder | Automation Developer | UI/UX Designer  
+AI Systems Builder | Automation Developer 
 Building AI-Powered Content Infrastructure  
 Karachi, Pakistan  
 
