@@ -1,90 +1,141 @@
 # Hi, I'm Shaheer Hussain Jafri 👋
 
-**AI-Assisted Developer | Automation-Focused Systems Builder**
-Building practical web systems, automation workflows, and AI-assisted digital products.
-Karachi, Pakistan
+**AI-Assisted Systems Builder | Automation & Web Workflow Developer**
+Building practical dashboards, automation workflows, and AI-assisted digital systems.
+📍 Karachi, Pakistan
 
 ---
 
 ## About Me
 
-I’m building my career around AI-assisted development, workflow automation, and modern web systems.
+I am building my career around **AI-assisted development, automation workflows, and practical web systems**.
 
-My focus is on turning repeated manual work into cleaner digital workflows using practical tools like Next.js, React, TypeScript, Python, APIs, automation logic, and AI-assisted development workflows.
+My work focuses on converting manual business processes into cleaner digital workflows through dashboards, structured interfaces, automation logic, and modern web tools.
 
-I’m not positioning myself as someone who only designs interfaces. I’m learning and building toward systems that combine logic, automation, usability, and performance.
+I come from a hands-on **SAP/ERP operations background**, where I worked with production workflows, material movement, reporting, and operational data. That experience helps me understand how real business processes work before turning them into digital systems.
+
+I use AI tools as part of my development workflow to speed up planning, implementation, debugging, and documentation while continuing to improve my coding depth, system understanding, and product thinking.
 
 ---
 
-## What I’m Currently Building
+## What I Build
 
-* AI-assisted web products and portfolio systems
-* Workflow automation experiments
-* Practical business process tools
-* UI/UX-driven digital interfaces
-* GitHub-based proof-of-work projects
-* Long-term SaaS ideas around automation and content infrastructure
+* Web dashboards for structured workflows
+* AI-assisted automation systems
+* Business process tools
+* Content monitoring and insight dashboards
+* Local SEO workflow systems
+* Portfolio and product-style web experiences
+
+---
+
+## Featured Work
+
+| Project               | Description                                                                                                      | Focus                                             |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Shaheer Portfolio** | A cinematic portfolio website designed to present my direction as an AI Systems Builder and Automation Engineer. | Portfolio, UI/UX, Motion, Personal Brand          |
+| **Content Radar**     | A dashboard that monitors public web sources and turns updates into structured AI-assisted insights.             | Monitoring, Automation, AI Insights               |
+| **CitationPilot**     | A local SEO automation workbench for managing citation workflows, directory tracking, manual tasks, and reports. | Workflow Automation, SEO Systems, Dashboard Logic |
+
+---
+
+## Live Projects
+
+**Portfolio:** [shaheer-portfolio-three.vercel.app](https://shaheer-portfolio-three.vercel.app)
+**Content Radar:** [content-radar-teal.vercel.app](https://content-radar-teal.vercel.app)
+
+More project repositories are available in my pinned GitHub section.
 
 ---
 
 ## Tech Stack
 
-**Web Development**
+### Frontend & Web
 
-* Next.js
 * React
+* Next.js
 * TypeScript
 * JavaScript
 * Tailwind CSS
 * APIs
 * Git & GitHub
+* Vercel
 
-**Automation & AI Workflow**
+### Backend, Data & Workflow
 
-* Python foundations
-* AI-assisted coding
-* Workflow planning
-* Automation logic
-* Prompt-driven development
+* Firebase
+* Firestore
+* Authentication flows
+* Dashboard data structure
 * API-based system thinking
+* Python foundations
+* Automation logic
 
-**Design & Motion**
+### AI-Assisted Development
+
+* AI-assisted coding
+* Prompt-driven development
+* Workflow planning
+* System breakdown
+* Debugging support
+* Technical documentation
+
+### Design & Motion
 
 * UI/UX systems
 * Figma
-* Framer
+* Framer Motion
 * GSAP
 * Three.js / React Three Fiber
-* Premium interactive web experiences
+* Interactive web experiences
+
+### SAP / ERP Background
+
+* SAP MM
+* SAP PP
+* ERP workflow support
+* Material movement
+* Production workflow tracking
+* Operational reporting
+* Data accuracy and process coordination
 
 ---
 
-## Focus Areas
+## How I Work
 
-* AI-assisted development
-* Workflow automation
-* Full-stack web products
-* Practical digital systems
-* Content and business process automation
-* Learning in public through real projects
+My workflow starts with understanding the process before building the interface or system.
+
+1. Understand the manual workflow or business problem
+2. Break the process into clear user flows
+3. Plan the system structure and dashboard logic
+4. Build the interface using modern web tools
+5. Use AI-assisted development to speed up implementation
+6. Review, test, debug, and improve the system
+7. Document the project clearly for users, teams, and hiring reviewers
 
 ---
 
 ## Current Direction
 
-I’m focused on building a strong proof-of-work portfolio that shows how I think, design, and build systems.
+I am focused on building practical projects around **automation, AI-assisted development, dashboards, and workflow systems**.
 
-My long-term goal is to grow into an AI Systems Builder and Automation Engineer, creating reliable tools, workflows, and SaaS products that help businesses reduce manual work and operate more efficiently.
+My goal is to grow into an **Automation Engineer / AI Systems Builder** who can help businesses reduce manual work, structure their operations, and build reliable digital systems around real workflows.
 
 ---
 
-## Featured Portfolio
+## Open To Opportunities
 
-I recently built and deployed my personal AI systems portfolio:
+I am open to entry-level roles where I can contribute to technical systems, dashboards, automation workflows, and digital operations.
 
-**Portfolio:** [shaheer-portfolio-three.vercel.app](https://shaheer-portfolio-three.vercel.app)
+Target roles include:
 
-The portfolio is designed as a cinematic, state-based storytelling experience instead of a traditional project grid. It presents my thinking around AI systems, automation workflows, web interfaces, and practical digital products.
+* Assistant Automation
+* Technical Assistant
+* Junior Frontend / Web Developer
+* Product or Dashboard Assistant
+* ERP / SAP Workflow Support
+
+I am especially interested in roles where business workflows, web systems, automation, and operational problem-solving connect together.
 
 ---
 
@@ -97,4 +148,4 @@ The portfolio is designed as a cinematic, state-based storytelling experience in
 
 ---
 
-*Actively learning, building, and improving through real projects.*
+Building practical digital systems around automation, dashboards, AI-assisted development, and real business workflows.
