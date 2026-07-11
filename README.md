@@ -1,151 +1,85 @@
 # Hi, I'm Shaheer Hussain Jafri 👋
 
-**AI-Assisted Systems Builder | Automation & Web Workflow Developer**
-Building practical dashboards, automation workflows, and AI-assisted digital systems.
+**Full-Stack Developer | Next.js · React · Python/FastAPI · Firebase**
+Building practical web systems, dashboards, and AI-assisted digital tools.
 📍 Karachi, Pakistan
 
 ---
 
 ## About Me
 
-I am building my career around **AI-assisted development, automation workflows, and practical web systems**.
+I'm a full-stack developer building real, deployed web systems using **Next.js, React, TypeScript, Python/FastAPI, PostgreSQL, and Firebase** — with AI tools as part of my development workflow to move faster on planning, implementation, and debugging.
 
-My work focuses on converting manual business processes into cleaner digital workflows through dashboards, structured interfaces, automation logic, and modern web tools.
+I come from a hands-on **SAP/ERP operations background** in a production and warehouse environment, where I worked with material movement, GI to FG workflows, reservations, transfer postings, and production order checks. That experience shaped how I think about real business processes before I turn them into digital systems.
 
-I come from a hands-on **SAP/ERP operations background**, where I worked with production workflows, material movement, reporting, and operational data. That experience helps me understand how real business processes work before turning them into digital systems.
-
-I use AI tools as part of my development workflow to speed up planning, implementation, debugging, and documentation while continuing to improve my coding depth, system understanding, and product thinking.
+I believe in **proof-of-work over credentials** — every project below is built, deployed, and usable, not just described.
 
 ---
 
 ## What I Build
 
-* Web dashboards for structured workflows
-* AI-assisted automation systems
-* Business process tools
-* Content monitoring and insight dashboards
-* Local SEO workflow systems
-* Portfolio and product-style web experiences
+* Full-stack web applications (Next.js + Python/FastAPI backends)
+* Recruiter and business workflow dashboards
+* AI-assisted tools (CV analysis, content monitoring, citation lookup)
+* Clean, structured interfaces backed by real data flow
 
 ---
 
-## Featured Work
+## Featured Projects
 
-| Project               | Description                                                                                                      | Focus                                             |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Shaheer Portfolio** | A cinematic portfolio website designed to present my direction as an AI Systems Builder and Automation Engineer. | Portfolio, UI/UX, Motion, Personal Brand          |
-| **Content Radar**     | A dashboard that monitors public web sources and turns updates into structured AI-assisted insights.             | Monitoring, Automation, AI Insights               |
-| **CitationPilot**     | A local SEO automation workbench for managing citation workflows, directory tracking, manual tasks, and reports. | Workflow Automation, SEO Systems, Dashboard Logic |
+| Project | Description | Stack |
+|---|---|---|
+| **HRMailOps / HRMind** | Recruiter-support tool that analyzes CVs against job descriptions and returns match signals, missing skills, and interview questions. | Next.js, FastAPI, PostgreSQL, Gemini API |
+| **CitationPilot** | Citation lookup workflow that resolves paper metadata from DOI/title and surfaces open-access links. | Next.js, TypeScript, Crossref API, Unpaywall API |
+| **Content Radar** | Dashboard that monitors public sources and turns updates into structured, AI-summarized insights. | Next.js, Firebase Firestore, Gemini API |
+| **Personal Portfolio** | Storytelling portfolio showcasing my direction, stack, and proof-of-work. | Next.js, GSAP, React Three Fiber |
 
----
-
-## Live Projects
-
-**Portfolio:** [shaheer-portfolio-three.vercel.app](https://shaheer-portfolio-three.vercel.app)
-**Content Radar:** [content-radar-teal.vercel.app](https://content-radar-teal.vercel.app)
-
-More project repositories are available in my pinned GitHub section.
+**Live:**
+[Portfolio](https://shaheer-portfolio-three.vercel.app) · [Content Radar](https://content-radar-teal.vercel.app) · [CitationPilot](https://citationpilot.vercel.app)
 
 ---
 
 ## Tech Stack
 
-### Frontend & Web
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* APIs
-* Git & GitHub
-* Vercel
-
-### Backend, Data & Workflow
-
-* Firebase
-* Firestore
-* Authentication flows
-* Dashboard data structure
-* API-based system thinking
-* Python foundations
-* Automation logic
-
-### AI-Assisted Development
-
-* AI-assisted coding
-* Prompt-driven development
-* Workflow planning
-* System breakdown
-* Debugging support
-* Technical documentation
-
-### Design & Motion
-
-* UI/UX systems
-* Figma
-* Framer Motion
-* GSAP
-* Three.js / React Three Fiber
-* Interactive web experiences
-
-### SAP / ERP Background
-
-* SAP MM
-* SAP PP
-* ERP workflow support
-* Material movement
-* Production workflow tracking
-* Operational reporting
-* Data accuracy and process coordination
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Framer Motion, GSAP, Three.js/React Three Fiber
+**Backend:** Python, FastAPI, PostgreSQL, Firebase/Firestore, REST APIs
+**Tools:** Git, GitHub, Vercel, Render, VS Code
+**AI-Assisted Development:** Gemini API, Claude, prompt-driven development, AI-assisted debugging and documentation
+**ERP/Business Background:** SAP MM/PP, material movement, production workflow tracking, operational reporting
 
 ---
 
 ## How I Work
 
-My workflow starts with understanding the process before building the interface or system.
-
-1. Understand the manual workflow or business problem
-2. Break the process into clear user flows
-3. Plan the system structure and dashboard logic
-4. Build the interface using modern web tools
-5. Use AI-assisted development to speed up implementation
-6. Review, test, debug, and improve the system
-7. Document the project clearly for users, teams, and hiring reviewers
+1. Understand the real business problem or manual workflow first
+2. Break it into clear user flows and system structure
+3. Build backend logic and frontend interface with modern tools
+4. Use AI tools to speed up implementation, debugging, and documentation
+5. Test, review, and document clearly for real users
 
 ---
 
-## Current Direction
+## Vision
 
-I am focused on building practical projects around **automation, AI-assisted development, dashboards, and workflow systems**.
+Short-term, I'm focused on landing an entry-level full-stack or junior developer role where I can grow with an experienced team and keep shipping real systems.
 
-My goal is to grow into an **Automation Engineer / AI Systems Builder** who can help businesses reduce manual work, structure their operations, and build reliable digital systems around real workflows.
-
----
-
-## Open To Opportunities
-
-I am open to entry-level roles where I can contribute to technical systems, dashboards, automation workflows, and digital operations.
-
-Target roles include:
-
-* Assistant Automation
-* Technical Assistant
-* Junior Frontend / Web Developer
-* Product or Dashboard Assistant
-* ERP / SAP Workflow Support
-
-I am especially interested in roles where business workflows, web systems, automation, and operational problem-solving connect together.
+Long-term, I want to build a company that trains and employs self-taught, middle-class developers from Karachi — proving that proof-of-work and practical skill can open doors that formal credentials alone often gate. As I grow, I'm also building toward deeper work in AI-assisted automation and agentic systems (n8n, Zapier, Make), one real project at a time — not claiming it before I've built it.
 
 ---
 
-## Connect With Me
+## Open to Opportunities
+
+Entry-level roles where I can contribute and grow:
+
+* Junior Full-Stack Developer (Next.js/React + Python)
+* Junior Web/Frontend Developer
+* Backend/API Support (Python, FastAPI)
+* Technical Assistant / ERP-Web hybrid roles
+
+---
+
+## Connect
 
 **LinkedIn:** [linkedin.com/in/shaheer-hussain-jafri](https://www.linkedin.com/in/shaheer-hussain-jafri)
-**GitHub:** [github.com/shaheerhus85-dev](https://github.com/shaheerhus85-dev)
 **Portfolio:** [shaheer-portfolio-three.vercel.app](https://shaheer-portfolio-three.vercel.app)
 **Location:** Karachi, Pakistan
-
----
-
-Building practical digital systems around automation, dashboards, AI-assisted development, and real business workflows.
