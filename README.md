@@ -35,7 +35,7 @@ I believe in **proof-of-work over credentials** — every project below is built
 | **Personal Portfolio** | Storytelling portfolio showcasing my direction, stack, and proof-of-work. | Next.js, GSAP, React Three Fiber |
 
 **Live:**
-[Portfolio](https://shaheer-portfolio-three.vercel.app) · [Content Radar](https://content-radar-teal.vercel.app) · [CitationPilot](https://citationpilot.vercel.app) [HRMailOps](https://hrmind-mailops-ai.vercel.app/)
+[Portfolio](https://shaheer-portfolio-three.vercel.app) · [Content Radar](https://content-radar-teal.vercel.app) · [CitationPilot](https://citationpilot.vercel.app) . [HRMailOps](https://hrmind-mailops-ai.vercel.app/)
 
 ---
 
