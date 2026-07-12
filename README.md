@@ -37,10 +37,12 @@ I believe in proof-of-work over claims — the projects below are built, deploye
 
 ## Live Projects
 
-- Personal Portfolio
-- HRMind MailOps AI
-- Content Radar
-- CitationPilot
+## Live Projects
+
+- [Personal Portfolio](https://shaheer-portfolio-three.vercel.app)
+- [HRMind MailOps AI](PASTE_HRMIND_LIVE_LINK_HERE)
+- [Content Radar](https://content-radar-teal.vercel.app)
+- [CitationPilot](PASTE_CITATIONPILOT_LIVE_LINK_HERE)
 
 ## Tech Stack
 
