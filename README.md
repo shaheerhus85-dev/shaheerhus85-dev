@@ -30,17 +30,17 @@ I believe in proof-of-work over claims — the projects below are built, deploye
 
 | Project | Description | Stack |
 |---|---|---|
-| **HRMind MailOps AI** | A human-reviewed recruiter operations workspace for inbox triage, candidate review, interview kits, reply drafts, and workflow guardrails. | Next.js, React, TypeScript, FastAPI, PostgreSQL, JWT |
-| **CitationPilot** | A Local SEO citation workflow for managing business profiles, discovery sources, submission queues, manual reviews, and CSV reporting. | React, TypeScript, Firebase |
-| **Content Radar** | A dashboard that monitors public sources and turns updates into structured, AI-assisted insights. | Next.js, Firebase Firestore, Gemini API |
-| **Personal Portfolio** | A cinematic storytelling portfolio showcasing my direction, technical stack, workflow thinking, and proof-of-work. | Next.js, GSAP, React Three Fiber |
+| HRMind MailOps AI | A human-reviewed recruiter operations workspace for inbox triage, candidate review, interview kits, reply drafts, and workflow guardrails. | Next.js, React, TypeScript, FastAPI, PostgreSQL, JWT |
+| CitationPilot | A Local SEO citation workflow for managing business profiles, NAP details, directory sources, submission queues, manual review stages, and CSV reporting. | React, TypeScript, Firebase |
+| Content Radar | A dashboard that monitors public sources and turns updates into structured, AI-assisted insights. | Next.js, Firebase Firestore, Gemini API |
+| Personal Portfolio | A cinematic storytelling portfolio showcasing my direction, technical stack, workflow thinking, and proof-of-work. | Next.js, GSAP, React Three Fiber |
 
 ## Live Projects
 
-- [Personal Portfolio](https://shaheer-portfolio-three.vercel.app)
-- [HRMind MailOps AI](https://hrmind-mailops-ai.vercel.app)
-- [Content Radar](https://content-radar-teal.vercel.app)
-- [CitationPilot](https://citationpilot.vercel.app)
+- Personal Portfolio
+- HRMind MailOps AI
+- Content Radar
+- CitationPilot
 
 ## Tech Stack
 
@@ -61,12 +61,12 @@ SAP MM/PP, material movement, production workflow tracking, inventory operations
 
 ## How I Work
 
-1. Understand the real business problem or manual workflow.
-2. Break it into clear user flows and system requirements.
-3. Design the frontend, backend, and data structure.
-4. Use AI tools to accelerate implementation and debugging.
-5. Test the system and keep claims aligned with what is actually live.
-6. Document the project clearly for users and recruiters.
+- Understand the real business problem or manual workflow.
+- Break it into clear user flows and system requirements.
+- Design the frontend, backend, and data structure.
+- Use AI tools to accelerate implementation and debugging.
+- Test the system and keep claims aligned with what is actually live.
+- Document the project clearly for users and recruiters.
 
 ## Vision
 
@@ -89,6 +89,6 @@ I'm open to entry-level roles such as:
 
 ## Connect
 
-- **LinkedIn:** https://linkedin.com/in/shaheer-hussain-jafri
-- **Portfolio:** https://shaheer-portfolio-three.vercel.app
-- **Location:** Karachi, Pakistan
+LinkedIn: https://linkedin.com/in/shaheer-hussain-jafri  
+Portfolio: https://shaheer-portfolio-three.vercel.app  
+Location: Karachi, Pakistan
