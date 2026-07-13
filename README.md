@@ -48,8 +48,8 @@ I believe in proof-of-work over claims. The projects below are built, deployed, 
 
 - [Personal Portfolio](https://shaheer-portfolio-three.vercel.app)
 - [Content Radar](https://content-radar-teal.vercel.app)
-- HRMind MailOps AI — Demo link pending final review
-- CitationPilot — Demo link pending final review
+- [HRMind MailOps AI](https://hrmind-mailops-ai.vercel.app)
+- [CitationPilot](https://citationpilot.vercel.app)
 
 ---
 
