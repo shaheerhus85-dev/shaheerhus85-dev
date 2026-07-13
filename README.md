@@ -37,7 +37,7 @@ I believe in proof-of-work over claims. The projects below are built, deployed, 
 
 | Project | Status | Description | Stack |
 |---|---|---|---|
-| HRMind MailOps AI | In progress | A human-reviewed recruiter operations workspace for inbox triage, candidate review, interview kits, reply drafts, and workflow guardrails. | Next.js, React, TypeScript, Python/FastAPI, PostgreSQL, Gemini API |
+| HRMind MailOps AI | Live | A human-reviewed recruiter operations workspace for inbox triage, candidate review, interview kits, reply drafts, and workflow guardrails. | Next.js, React, TypeScript, Python/FastAPI, PostgreSQL, Gemini API |
 | CitationPilot | Proof-of-work | A local SEO citation workflow for managing business profiles, NAP details, directory sources, submission queues, manual review stages, and CSV reporting. | React, TypeScript, Firebase |
 | Content Radar | Live / Proof-of-work | A dashboard that monitors public sources and turns updates into structured AI-assisted insights. | Next.js, React, TypeScript, Firebase Firestore, Gemini API |
 | Personal AI Systems Portfolio | Live | A cinematic storytelling portfolio showcasing my direction, technical stack, workflow thinking, and proof-of-work projects. | Next.js, React, TypeScript, Tailwind CSS, GSAP, React Three Fiber, Vercel |
