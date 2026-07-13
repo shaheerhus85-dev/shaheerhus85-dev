@@ -10,7 +10,7 @@ Building practical web systems, workflow dashboards, and AI-assisted digital too
 
 ## About Me
 
-I'm an entry-level full-stack developer building practical web systems using Next.js, React, TypeScript, Python/FastAPI, PostgreSQL, and Firebase.
+I'm an entry-level full-stack developer building practical web systems using Next.js, React, TypeScript, Python/FastAPI, PostgreSQL, Firebase, and REST APIs.
 
 I use AI tools as part of my development workflow for planning, implementation, debugging, and documentation. My focus is not on making exaggerated AI claims, but on using modern tools to build clearer, faster, and more reliable digital systems.
 
@@ -44,12 +44,12 @@ I believe in proof-of-work over claims. The projects below are built, deployed, 
 
 ---
 
-## Live Links
+## Project Links
 
 - [Personal Portfolio](https://shaheer-portfolio-three.vercel.app)
 - [Content Radar](https://content-radar-teal.vercel.app)
-
-Other projects are being improved and documented. Live/demo links will be added after final review.
+- HRMind MailOps AI — Demo link pending final review
+- CitationPilot — Demo link pending final review
 
 ---
 
@@ -86,7 +86,7 @@ SAP MM/PP, material movement, stock movement records, GI to FG, reservations, tr
 
 ## Current Direction
 
-In the short term, I'm focused on landing an entry-level full-stack, junior web developer, backend/API support, application support, or ERP-web hybrid role where I can grow with an experienced team and continue shipping real systems.
+In the short term, I'm focused on landing an entry-level full-stack, junior web developer, backend/API support, application support, technical support, or ERP-web hybrid role where I can grow with an experienced team and continue shipping real systems.
 
 In the long term, I want to build deeper expertise in AI-assisted automation, agentic systems, workflow products, and practical SaaS tools for real business problems.
 
@@ -111,6 +111,6 @@ I'm open to entry-level roles such as:
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/shaheer-hussain-jafri  
+LinkedIn: https://www.linkedin.com/in/shaheer-hussain-jafri  
 Portfolio: https://shaheer-portfolio-three.vercel.app  
 Location: Karachi, Pakistan
